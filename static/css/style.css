@@ -32,3 +32,13 @@ nav a {
     text-decoration: none;
     color: #fff;
 }
+
+main {
+    padding: 20px;
+}
+
+.intro {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
